@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MUIReactTodoApp/static/css/main.213b67d5.chunk.css",
+    "main.js": "/MUIReactTodoApp/static/js/main.5126e578.chunk.js",
+    "main.js.map": "/MUIReactTodoApp/static/js/main.5126e578.chunk.js.map",
+    "runtime-main.js": "/MUIReactTodoApp/static/js/runtime-main.082f8447.js",
+    "runtime-main.js.map": "/MUIReactTodoApp/static/js/runtime-main.082f8447.js.map",
+    "static/js/2.b8c544a0.chunk.js": "/MUIReactTodoApp/static/js/2.b8c544a0.chunk.js",
+    "static/js/2.b8c544a0.chunk.js.map": "/MUIReactTodoApp/static/js/2.b8c544a0.chunk.js.map",
+    "index.html": "/MUIReactTodoApp/index.html",
+    "precache-manifest.1bf4192f210dc4b9be5e7cfe3a065529.js": "/MUIReactTodoApp/precache-manifest.1bf4192f210dc4b9be5e7cfe3a065529.js",
+    "service-worker.js": "/MUIReactTodoApp/service-worker.js",
+    "static/css/main.213b67d5.chunk.css.map": "/MUIReactTodoApp/static/css/main.213b67d5.chunk.css.map",
+    "static/js/2.b8c544a0.chunk.js.LICENSE.txt": "/MUIReactTodoApp/static/js/2.b8c544a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.082f8447.js",
+    "static/js/2.b8c544a0.chunk.js",
+    "static/css/main.213b67d5.chunk.css",
+    "static/js/main.5126e578.chunk.js"
+  ]
+}
