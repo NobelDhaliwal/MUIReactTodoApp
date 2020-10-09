@@ -43,7 +43,9 @@ input {
   width: 40%;
   height: 30px;
   text-align: center;
-  font-size:45px;
+  font-size: 45px;
+  font-weight: 900;
+  text-transform: capitalize;
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
   border-bottom: 2px solid #7bed;
